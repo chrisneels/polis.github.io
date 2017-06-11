@@ -94,7 +94,15 @@ p {
   }
 
   .hero {
-    height: 300px;
+    height: 350px;
+  }
+
+  .img-nav {
+    margin-left: 5px;
+  }
+
+  .nav-button {
+    margin-right: 5px;
   }
 }
 
