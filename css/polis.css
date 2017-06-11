@@ -85,12 +85,16 @@ p {
 
 @media (max-width: 500px) {
   .site-body {
-    margin-left: 10%;
-    width: 80%;
+    margin-left: 5%;
+    width: 90%;
   }
 
   .site-body h1, h2, hr {
     width: 100%;
+  }
+
+  .hero {
+    height: 300px;
   }
 }
 
